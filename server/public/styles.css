@@ -69,16 +69,12 @@ body {
 
 .todoapp h1 {
   position: absolute;
-  top: -210px;
+  top: -140px;
   width: 100%;
-  padding-top: 30px;
-  padding-bottom: 60px;
-  font-size: 7rem;
-  font-weight: 2rem;
+  font-size: 80px;
+  font-weight: 200;
   text-align: center;
-  background: linear-gradient(to right, #FC0FC0 0%,#0B54FE 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+  color: #b83f45;
   -webkit-text-rendering: optimizeLegibility;
   -moz-text-rendering: optimizeLegibility;
   text-rendering: optimizeLegibility;
