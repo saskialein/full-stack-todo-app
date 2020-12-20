@@ -27,7 +27,6 @@ $ npm run dev
 | POST | /api/v1/tasks | adds a new task to the database
 | DELETE | /api/v1/tasks/:id | deletes task by id
 | PATCH | /api/v1/tasks/:id | updates a task by id
-|---|---|---|---|
 
 ### API request and response bodies
 #### /api/v1/tasks
